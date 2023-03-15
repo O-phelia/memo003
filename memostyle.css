@@ -25,29 +25,24 @@ input{
     border-radius: 10px;
     background-color: #f3ecd6;
 }
-.ooxx{
+/* .ooxx{
     margin-bottom: 80px;
-}
+} */
 .add{
-    width: 50px;
-    border-radius: 50%;
+    width: 150px;
+    border-radius: 15px;
     background-color: #f6e085;
-    height: 50px;
-    font-size: 30px;
-    position: absolute;
-    right: 100px;
-    top: 380px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-right: 30px;
 }
 .delete{
-    width: 50px;
-    border-radius: 50%;
+
     background-color: #ad9373;
-    height: 50px;
-    font-size: 35px;
-    position: absolute;
-    right: 40px;
-    top: 380px;
-}
+    width: 150px;
+    border-radius: 15px;
+    font-size: 20px;
+    line-height: 50px;}
 
 .add:hover{
     background-color: #73695b;
