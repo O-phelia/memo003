@@ -1,0 +1,74 @@
+.app{
+    background-color: #ccbdaa;
+    width: 350px;
+    height: auto;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 3px 3px 15px rgba(171, 166, 166, 0.8); 
+    position: relative;
+}
+h1{
+    text-align: center;
+    padding-top: 5px;
+}
+
+p{
+    padding-left: 5px;
+    font-size: 微軟正黑體;
+    color: rgb(86, 66, 32);
+    font-weight: 30px;
+}
+
+input{
+    width: 340px;
+    height: 27px;
+    border-radius: 10px;
+    background-color: #f3ecd6;
+}
+.ooxx{
+    margin-bottom: 80px;
+}
+.add{
+    width: 50px;
+    border-radius: 50%;
+    background-color: #f6e085;
+    height: 50px;
+    font-size: 30px;
+    position: absolute;
+    right: 100px;
+    top: 380px;
+}
+.delete{
+    width: 50px;
+    border-radius: 50%;
+    background-color: #ad9373;
+    height: 50px;
+    font-size: 35px;
+    position: absolute;
+    right: 40px;
+    top: 380px;
+}
+
+.add:hover{
+    background-color: #73695b;
+    color: aliceblue;
+}
+.delete:hover{
+    background-color: #73695b;
+    color: aliceblue;
+}
+
+.add:active{
+    background-color: #483923;
+}
+.delete:active{
+    background-color: #483923;
+}
+
+.item{
+    background-color: #fbefd9;
+    width: 100%;
+    height: auto;
+    border-radius: 7px;
+    line-height: 24px;
+}
